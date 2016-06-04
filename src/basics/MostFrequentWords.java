@@ -1,4 +1,4 @@
-package set.array;
+package basics;
 import java.io.*;
 import java.util.*;
 
