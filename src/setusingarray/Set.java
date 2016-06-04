@@ -1,4 +1,4 @@
-package set.array;
+package setusingarray;
 
 public class Set<T> {
 	private T[] arrayElement;

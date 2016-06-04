@@ -1,4 +1,4 @@
-package basics;
+package algorithms;
 
 class Solution {
 	

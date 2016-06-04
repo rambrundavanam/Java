@@ -1,6 +1,6 @@
-package set.array;
+package setusingarray;
 
-import set.array.Set;
+import setusingarray.Set;
 
 
 class Test {

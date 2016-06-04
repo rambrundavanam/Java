@@ -1,4 +1,4 @@
-package basics;
+package algorithms;
 
 import java.util.LinkedHashSet;
 import java.util.PriorityQueue;

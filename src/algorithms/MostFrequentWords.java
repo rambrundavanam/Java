@@ -1,4 +1,4 @@
-package basics;
+package algorithms;
 import java.util.*;
 
 //Shows the 5 most frequent words in the List of words
