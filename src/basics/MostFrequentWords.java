@@ -1,5 +1,4 @@
 package basics;
-import java.io.*;
 import java.util.*;
 
 //Shows the 5 most frequent words in the List of words
@@ -21,7 +20,7 @@ public class MostFrequentWords {
 		for (Map.Entry<String, Integer> entry : hm.entrySet()) {
 			pq.add(new Words(entry.getKey(), entry.getValue()));
 		}
-		for (int i = 0; i < 5; i++) {
+		for (int i = 0; i < k; i++) {
 			System.out.println(pq.poll().toString());
 		}
 	}
